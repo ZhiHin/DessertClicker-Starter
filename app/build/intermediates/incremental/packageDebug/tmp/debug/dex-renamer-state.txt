@@ -1,0 +1,4 @@
+#Wed Apr 26 10:52:36 SGT 2023
+base.0=C\:\\Users\\TARUC\\AndroidStudioProjects\\DessertClicker-Starter\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
